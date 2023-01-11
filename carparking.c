@@ -214,12 +214,12 @@ int first( )
 	printf("\n\t\t\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\n");
 	printf("\t\t\xdb                                               \xdb\n");
 	printf("\t\t\xdb       =============================           \xdb\n");
-	printf("\t\t\xdb        VEHICLE PARKING MANAGEMENT             \xdb\n");
+	printf("\t\t\xdb        VEHICLE PARKING RESERVATION             \xdb\n");
 	printf("\t\t\xdb       =============================           \xdb\n");
 	printf("\t\t\xdb                                               \xdb\n");
 	printf("\t\t\xdb                  I MALL                       \xdb\n");
 	printf("\t\t\xdb                                               \xdb\n");
-	printf("\t\t\xdb      CONTACT US:6374014236,8667554852         \xdb\n");
+	printf("\t\t\xdb      CONTACT US:866#####52         \xdb\n");
 	printf("\t\t\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\n\n\n");
 	printf(" \n\t Press Enter To Continue:");
 	
